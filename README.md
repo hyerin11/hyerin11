@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <div style="text-align: left;">
     <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
 
   <!-- Frontend -->
-  <h3>🎨 Frontend</h3>
+  <h4>🌐 Frontend</h4>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -17,7 +15,7 @@
   </div>
 
   <!-- Backend -->
-  <h3>🖥️ Backend</h3>
+  <h4>⚙️ Backend</h4>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -25,13 +23,14 @@
   </div>
 
   <!-- Database -->
-  <h3>🗄️ Database</h3>
+  <h4>💾 Database</h4>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
   </div>
 </div>
 
+<br>
     
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerin11&utm_content=farm">
 <img
