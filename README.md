@@ -13,9 +13,10 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   </p>
 
-  <h4>⚙️ Backend</h4>
+  <h4>💻 Backend</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   </p>
@@ -28,6 +29,14 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   </p>
 
+  <!-- 
+  <h4>⚙️ Infra</h4>
+  <p>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_EC2-F58534?style=flat-square&logo=AmazonEC2&logoColor=white">
+  </p>
+  -->
 </div>
 
 <br>
