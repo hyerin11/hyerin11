@@ -1,11 +1,4 @@
 ## Hi there 👋
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerin11&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/hyerin11"
-  width="600"
-  height="300"
-/>
-</a>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
@@ -15,8 +8,9 @@
           <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+          <br>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=React&logoColor=white">
           <br>
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
@@ -26,6 +20,14 @@
           <br/>
           </div>
     </div>
+    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerin11&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyerin11"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **hyerin11/hyerin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
